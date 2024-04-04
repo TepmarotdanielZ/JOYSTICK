@@ -1,4 +1,4 @@
-# 1. Joystick Interfacing with STM32 :
+## 1. Joystick Interfacing with STM32 :
 
 The PS2 joystick module shown in the figure down below is basically a couple of potentiometers (variable resistors) that moves in position while you’re rotating the stick around. This creates a voltage difference that can be read using any microcontroller’s ADC peripheral. The pinout for this module is shown below
 
